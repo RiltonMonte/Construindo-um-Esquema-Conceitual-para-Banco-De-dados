@@ -23,6 +23,9 @@ Narrativa:
 	Nome, Telefone e E-mail do cliente
 	Marca, Modelo e Ano do Veiculo
 	Numero da Equipe de mecanicos
+	
+-----
+
 	Foram utilizadas relações N-M da mão de Obra, Peças, e Serviços para a Ordem de Serviço
 	Foram utilizadas relações 1-1 entre Veiculo e Equipe, e entre veiculo e Ordem de Serviço
 	Foi utilizada relação 1-N entre cliente e veiculo  
